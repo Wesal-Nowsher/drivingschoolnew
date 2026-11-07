@@ -97,3 +97,24 @@ nav.main{display:none;position:absolute;top:70px;left:0;right:0;background:#fff;
 .ph img{width:100%;height:100%;object-fit:cover;display:block}
 .ph.tall{aspect-ratio:4/3;margin:0}
 .ph.round{border-radius:50%;width:96px;height:96px;aspect-ratio:1;margin:0 0 12px}
+/* nav button fixes */
+nav.main a.btn{color:#fff;padding:10px 22px;font-size:.95rem;line-height:1.2;white-space:nowrap}
+nav.main a.btn:hover{color:#fff;background:var(--brand-d)}
+header.site .container{gap:16px}
+@media(max-width:1024px){nav.main{gap:18px}}
+@media(max-width:900px){
+ nav.main{gap:4px;box-shadow:0 12px 24px rgba(20,33,61,.08)}
+ nav.main a{padding:12px 6px;border-bottom:1px solid var(--line)}
+ nav.main a.btn{margin-top:10px;text-align:center;padding:14px;border-bottom:0}
+}
+@media(max-width:600px){
+ .topbar{font-size:.78rem}.topbar .container{justify-content:center;text-align:center}
+ .topbar .container span:first-child{display:none}
+ .offer-strip{font-size:.85rem;padding:8px 12px}
+ header.site .container{height:62px}nav.main{top:62px}
+ .hero{padding:56px 0 48px}.hero .actions .btn{flex:1;text-align:center}
+ .cta{flex-direction:column;align-items:flex-start}.cta .btn{width:100%;text-align:center}
+ th,td{padding:10px 12px;font-size:.9rem}
+}
+@media(max-width:900px){nav.main{align-items:stretch;padding:12px 16px 20px}nav.main a{text-align:left}nav.main a.btn{text-align:center}}
+@media(max-width:600px){.topbar .hide-sm{display:none}}
