@@ -1,3 +1,3 @@
-# DriveNew Driving School
+# DriveNew Driving School (Bahrain)
 
 Static website: index.html (Home), lessons.html, pricing.html, about.html. Shared styles in assets/. Open index.html in a browser — no build step.

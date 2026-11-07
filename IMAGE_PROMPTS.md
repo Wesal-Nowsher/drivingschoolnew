@@ -2,13 +2,13 @@
 
 Generate each image (Midjourney, DALL·E, Firefly, etc.), save it as **JPG** with the exact filename into `assets/img/`. The site picks it up automatically; until then a neutral placeholder shows.
 
-**Style to add to every prompt:** `photorealistic, natural daylight, modern Dubai setting, deep navy and warm gold accents, clean composition, no text, no logos`
+**Style to add to every prompt:** `photorealistic, natural daylight, modern Bahrain setting, deep navy and warm gold accents, clean composition, no text, no logos`
 Sizes: heroes 1920×1080 · cards 1200×750 · round portraits 400×400.
 
 ## Page heroes (darkened by an overlay, so keep them simple)
 | File | Prompt |
 |---|---|
-| hero-home.jpg | Smiling young driver behind the wheel of a white hatchback, instructor in passenger seat, Dubai skyline and Sheikh Zayed Road in background, golden hour |
+| hero-home.jpg | Smiling young driver behind the wheel of a white hatchback, instructor in passenger seat, Manama skyline with Bahrain World Trade Center in background, golden hour |
 | hero-lessons.jpg | Wide shot of a driving school training yard with cones, parking bays and several white training cars, palm trees, morning light |
 | hero-pricing.jpg | Close-up of hands holding a new car key and a driving licence card over a car seat, shallow depth of field |
 | hero-about.jpg | Group of friendly driving instructors in navy polo shirts standing in front of a row of training cars, modern building behind |
@@ -16,7 +16,7 @@ Sizes: heroes 1920×1080 · cards 1200×750 · round portraits 400×400.
 ## Courses
 | File | Prompt |
 |---|---|
-| course-car.jpg | White compact sedan with "L" learner sign on a quiet Dubai street, student driving, instructor beside |
+| course-car.jpg | White compact sedan with "L" learner sign on a quiet Manama street, student driving, instructor beside |
 | course-motorcycle.jpg | Rider in full protective gear and helmet weaving through cones on a motorcycle training track |
 | course-truck.jpg | Large modern heavy truck in a training yard, trainee climbing into the cab, instructor with clipboard |
 | course-bus.jpg | Modern white passenger bus parked in a depot, trainee driver at the wheel seen through windscreen |
@@ -57,7 +57,7 @@ Sizes: heroes 1920×1080 · cards 1200×750 · round portraits 400×400.
 | student-1.jpg | Portrait of a smiling South Asian woman in her 20s holding a driving licence |
 | student-2.jpg | Portrait of a smiling European man in his 30s, business casual |
 | student-3.jpg | Portrait of a smiling Pakistani man in his 30s wearing a hi-vis vest |
-| team-1.jpg | Professional portrait of an Emirati man in a kandura, confident smile |
+| team-1.jpg | Professional portrait of an Bahraini man in a white thobe and ghutra, confident smile |
 | team-2.jpg | Professional portrait of an Arab woman in a navy blazer and hijab |
 | team-3.jpg | Professional portrait of an Indian man in a navy polo shirt |
 | team-4.jpg | Professional portrait of an Eastern European woman with a friendly smile |
