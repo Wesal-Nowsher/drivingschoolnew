@@ -118,3 +118,4 @@ header.site .container{gap:16px}
 }
 @media(max-width:900px){nav.main{align-items:stretch;padding:12px 16px 20px}nav.main a{text-align:left}nav.main a.btn{text-align:center}}
 @media(max-width:600px){.topbar .hide-sm{display:none}}
+#app{transition:opacity .18s ease}#app.leaving{opacity:.35}
